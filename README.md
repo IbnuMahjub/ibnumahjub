@@ -31,7 +31,7 @@
 <a href="https://linkedin.com/in/ibnu-mahjub" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="https://instagram.com/ibnmhjb" target="_blank">
+<a href="https://instagram.com/nunusianakbaik" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 </p>
